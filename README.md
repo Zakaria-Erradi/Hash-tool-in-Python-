@@ -6,6 +6,7 @@ Hash tool in  Python💯
 
 
 =========================================
+
 [*]Explanation of the tool :
 
 For the first option (Hash chacker), the user is asked to enter two hashes, and they are compared to see if they are the same hash or not.
